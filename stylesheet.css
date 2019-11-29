@@ -191,6 +191,7 @@ line-height: 2 !important;
   -o-transition: 1s all;
   transition: 1s all;
   font-weight: 200;
+  font-size:1.15em !important;
 }
 
 .link:hover{
